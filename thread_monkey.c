@@ -1,3 +1,6 @@
+/* First attempt to speed up calculations by splitting
+the load over multiple threads.
+*/
 
 #include <stdio.h> 
 #include <stdlib.h> 

@@ -1,3 +1,5 @@
+# Solving the money problem using polyfit
+
 import numpy as np
 from sympy import S, symbols
 import sympy
